@@ -13,5 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 - 🌱 I’m currently learning Symfony for a project
+- -->
+- [![Yndiliädrin's github trophy](https://github-profile-trophy.vercel.app/?username=Yndiliadrin&row=1&theme=onedark)](https://github.com/Yndiliadrin)
+---
+[![Yndiliadrin's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yndiliadrin&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
